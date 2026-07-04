@@ -1,0 +1,7 @@
+Customer Support Policy
+
+Customer support teams must verify customer identity before sharing account information.
+Sensitive customer data should not be shared without proper authentication.
+Support teams should provide accurate information based on approved banking policies.
+If the customer issue is complex, it should be escalated to the operations team.
+Customer account details should only be accessed by authorized use

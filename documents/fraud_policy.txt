@@ -1,0 +1,6 @@
+
+Transactions above 5000 dollars must be reviewed by the fraud team.
+International transactions and wire transfers require additional verification.
+If suspicious activity is found, the case should be documented and escalated to the fraud analyst.
+Customer identity must be verified before approving high-risk transactions.
+Fraud analysts should review customer behavior, transaction amount, transaction location, and transaction type before making a decision.

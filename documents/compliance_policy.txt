@@ -1,0 +1,7 @@
+Compliance Policy
+
+Compliance teams must ensure that banking operations follow internal policies and regulatory requirements.
+Any unusual account activity should be reviewed carefully.
+Access to confidential financial documents should be controlled using role-based access.
+Policy violations must be reported to the compliance team.
+Employees should follow data governance, access control, and audit requirements when handling sensitive financial data.
