@@ -79,6 +79,17 @@ def find_best_sentences(question, document_text):
 
     top_sentences = [sentence for score, sentence in sentence_scores[:2]]
     return top_sentences
+def search_policy(question):
+    documents = load_documents()
+    document_name, document_text, score = find_best_document(question, documents)
+
+    if score == 0:
+        return "No matching policy found. Please ask a different question."
+
+    best_sentences = find_best_sentences(question, document_text)
+
+    answer = " ".join(best_sentences)
+    return f"{answer}\n\nSource: {document_name}"
 
 def main():
     documents = load_documents()
